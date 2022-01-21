@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repo\\Ceneo-2022-01-19\\4. DocFlow-Start\\DocFlow.Domain\\DocFlow.Domain.csproj",
+      "projectUniqueName": "C:\\Repo\\CeneoTraining2\\4. DocFlow-Start\\DocFlow.Domain\\DocFlow.Domain.csproj",
       "projectName": "DocFlow.Domain",
-      "projectPath": "C:\\Repo\\Ceneo-2022-01-19\\4. DocFlow-Start\\DocFlow.Domain\\DocFlow.Domain.csproj",
+      "projectPath": "C:\\Repo\\CeneoTraining2\\4. DocFlow-Start\\DocFlow.Domain\\DocFlow.Domain.csproj",
       "packagesPath": "C:\\Users\\krzysztof.waszak\\.nuget\\packages\\",
-      "outputPath": "C:\\Repo\\Ceneo-2022-01-19\\4. DocFlow-Start\\DocFlow.Domain\\obj\\",
+      "outputPath": "C:\\Repo\\CeneoTraining2\\4. DocFlow-Start\\DocFlow.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

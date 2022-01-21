@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0AiQdlzjhQqIbHiquwucugFF1SSB4tW78UNnOjmf3JtNJtzoGTd9sqbwPfvCB9dFOrDYUMej/g3yq6jYX3USOA==",
+  "dgSpecHash": "4EknpvhVbV2yDX/LxN72ciEVsMZyVb1kgUDWXXQZ/1DLZtNQf+Ltcu0qSKxaewyRc/8Gl+OqPlsrzz56UPBncQ==",
   "success": true,
-  "projectFilePath": "C:\\Repo\\Ceneo-2022-01-19\\4. DocFlow-Start\\DocFlow.Tests\\DocFlow.Tests.csproj",
+  "projectFilePath": "C:\\Repo\\CeneoTraining2\\4. DocFlow-Start\\DocFlow.Tests\\DocFlow.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\krzysztof.waszak\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\krzysztof.waszak\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

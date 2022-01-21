@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repo\\Ceneo-2022-01-19\\4. DocFlow-Start\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Repo\\CeneoTraining2\\4. DocFlow-Start\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj",
       "projectName": "DocFlow.Infrastructure",
-      "projectPath": "C:\\Repo\\Ceneo-2022-01-19\\4. DocFlow-Start\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj",
+      "projectPath": "C:\\Repo\\CeneoTraining2\\4. DocFlow-Start\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\krzysztof.waszak\\.nuget\\packages\\",
-      "outputPath": "C:\\Repo\\Ceneo-2022-01-19\\4. DocFlow-Start\\DocFlow.Infrastructure\\obj\\",
+      "outputPath": "C:\\Repo\\CeneoTraining2\\4. DocFlow-Start\\DocFlow.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -58,8 +58,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Repo\\Ceneo-2022-01-19\\4. DocFlow-Start\\DocFlow.Domain\\DocFlow.Domain.csproj": {
-              "projectPath": "C:\\Repo\\Ceneo-2022-01-19\\4. DocFlow-Start\\DocFlow.Domain\\DocFlow.Domain.csproj"
+            "C:\\Repo\\CeneoTraining2\\4. DocFlow-Start\\DocFlow.Domain\\DocFlow.Domain.csproj": {
+              "projectPath": "C:\\Repo\\CeneoTraining2\\4. DocFlow-Start\\DocFlow.Domain\\DocFlow.Domain.csproj"
             }
           }
         }

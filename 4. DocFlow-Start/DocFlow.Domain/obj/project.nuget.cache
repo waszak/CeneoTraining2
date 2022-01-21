@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pZT+nUism9aPLXxjX6cM/OSFns6qvV79XP8LdBsdw3ps+yavrIEIA5ywaLA+f+a46CF2g3cmg93+SCxDNuliWg==",
+  "dgSpecHash": "8g+OKxHxdNHlGKPM3p2Gllb2nbfai6/ZhEu2LdmuCp/LGS5AKFQvO+IbBkDnMaj7XtAEl7IosuUDZ4kWf/2OzQ==",
   "success": true,
-  "projectFilePath": "C:\\Repo\\Ceneo-2022-01-19\\4. DocFlow-Start\\DocFlow.Domain\\DocFlow.Domain.csproj",
+  "projectFilePath": "C:\\Repo\\CeneoTraining2\\4. DocFlow-Start\\DocFlow.Domain\\DocFlow.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

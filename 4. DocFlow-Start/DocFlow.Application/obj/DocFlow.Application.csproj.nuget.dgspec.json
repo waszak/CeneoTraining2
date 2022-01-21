@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repo\\Ceneo-2022-01-19\\4. DocFlow-Start\\DocFlow.Application\\DocFlow.Application.csproj": {}
+    "C:\\Repo\\CeneoTraining2\\4. DocFlow-Start\\DocFlow.Application\\DocFlow.Application.csproj": {}
   },
   "projects": {
-    "C:\\Repo\\Ceneo-2022-01-19\\4. DocFlow-Start\\DocFlow.Application\\DocFlow.Application.csproj": {
+    "C:\\Repo\\CeneoTraining2\\4. DocFlow-Start\\DocFlow.Application\\DocFlow.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repo\\Ceneo-2022-01-19\\4. DocFlow-Start\\DocFlow.Application\\DocFlow.Application.csproj",
+        "projectUniqueName": "C:\\Repo\\CeneoTraining2\\4. DocFlow-Start\\DocFlow.Application\\DocFlow.Application.csproj",
         "projectName": "DocFlow.Application",
-        "projectPath": "C:\\Repo\\Ceneo-2022-01-19\\4. DocFlow-Start\\DocFlow.Application\\DocFlow.Application.csproj",
+        "projectPath": "C:\\Repo\\CeneoTraining2\\4. DocFlow-Start\\DocFlow.Application\\DocFlow.Application.csproj",
         "packagesPath": "C:\\Users\\krzysztof.waszak\\.nuget\\packages\\",
-        "outputPath": "C:\\Repo\\Ceneo-2022-01-19\\4. DocFlow-Start\\DocFlow.Application\\obj\\",
+        "outputPath": "C:\\Repo\\CeneoTraining2\\4. DocFlow-Start\\DocFlow.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Repo\\Ceneo-2022-01-19\\4. DocFlow-Start\\DocFlow.Domain\\DocFlow.Domain.csproj": {
-                "projectPath": "C:\\Repo\\Ceneo-2022-01-19\\4. DocFlow-Start\\DocFlow.Domain\\DocFlow.Domain.csproj"
+              "C:\\Repo\\CeneoTraining2\\4. DocFlow-Start\\DocFlow.Domain\\DocFlow.Domain.csproj": {
+                "projectPath": "C:\\Repo\\CeneoTraining2\\4. DocFlow-Start\\DocFlow.Domain\\DocFlow.Domain.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Repo\\Ceneo-2022-01-19\\4. DocFlow-Start\\DocFlow.Domain\\DocFlow.Domain.csproj": {
+    "C:\\Repo\\CeneoTraining2\\4. DocFlow-Start\\DocFlow.Domain\\DocFlow.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repo\\Ceneo-2022-01-19\\4. DocFlow-Start\\DocFlow.Domain\\DocFlow.Domain.csproj",
+        "projectUniqueName": "C:\\Repo\\CeneoTraining2\\4. DocFlow-Start\\DocFlow.Domain\\DocFlow.Domain.csproj",
         "projectName": "DocFlow.Domain",
-        "projectPath": "C:\\Repo\\Ceneo-2022-01-19\\4. DocFlow-Start\\DocFlow.Domain\\DocFlow.Domain.csproj",
+        "projectPath": "C:\\Repo\\CeneoTraining2\\4. DocFlow-Start\\DocFlow.Domain\\DocFlow.Domain.csproj",
         "packagesPath": "C:\\Users\\krzysztof.waszak\\.nuget\\packages\\",
-        "outputPath": "C:\\Repo\\Ceneo-2022-01-19\\4. DocFlow-Start\\DocFlow.Domain\\obj\\",
+        "outputPath": "C:\\Repo\\CeneoTraining2\\4. DocFlow-Start\\DocFlow.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
