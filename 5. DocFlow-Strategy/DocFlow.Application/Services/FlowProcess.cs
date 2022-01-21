@@ -15,34 +15,32 @@ namespace DocFlow.Application.Services
 
     private IUserRepository userRepo = new FakeUserRepository();
 
-    public FlowProcess(IConfigurationData configuration)
+
+    private readonly ICostCalculationFactory _costCalculation;
+    private readonly IDocumentFactory _documentFactory;
+
+    public FlowProcess(IConfigurationData configuration,
+        ICostCalculationFactory costCalculationFactory,
+        IDocumentFactory documentFactory)
     {
       _configuration = configuration;
+
+      _costCalculation = costCalculationFactory;
+      _documentFactory = documentFactory;
     }
 
     public DocumentNumber CreateDocument(Guid creatorId, DocumentType type, string title)
     {
       User creator = userRepo.Load(creatorId);
 
-      Document document = new Document(type, creator,CreateNumber()); //TODO factory
+      var document = _documentFactory.Create(type, creator);
+     
       document.ChangeTitle(title);
 
       documentRepo.Save(document);
       return document.Number;
     }
 
-    private DocumentNumber CreateNumber()
-    {
-      if (_configuration.QualitySystem == QualitySystemType.QEP)
-      {
-        return new QepNumberGenerator().Generate();
-      }
-      if (_configuration.QualitySystem == QualitySystemType.ISO)
-      {
-        return new IsoNumberGenerator().Generate();
-      }
-      throw new InvalidOperationException();
-    }
 
     public void VerifyDocument(Guid verifierId, DocumentNumber documentNumber)
     {
@@ -69,14 +67,7 @@ namespace DocFlow.Application.Services
 
     private ICostCalculator CreateCostCalculator()
     {
-      if (_configuration.ColorPrintingEnabled) 
-      {
-        return new ColorCalculator();
-      }
-      else
-      {
-        return new BwCostCalulator();
-      }
+        return _costCalculation.Create();
     }
   }
 }

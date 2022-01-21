@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f6d1ae11-8e12-4e7b-a0ff-ff91dfd5f792": {
+      "ProjectGuid": "f6d1ae11-8e12-4e7b-a0ff-ff91dfd5f792",
+      "DisplayName": "DocFlow.Domain",
+      "ColorIndex": 0
+    },
+    "c58557e6-fc7f-471f-af0c-d732fd58314c": {
+      "ProjectGuid": "c58557e6-fc7f-471f-af0c-d732fd58314c",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
